@@ -1,0 +1,1 @@
+﻿create table testing (id int, name char(10));
