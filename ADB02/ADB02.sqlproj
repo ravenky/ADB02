@@ -72,5 +72,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Snapshots\ADB02_20190925_17-57-16.dacpac" />
+    <None Include="Snapshots\ADB02_20190926_11-07-39.dacpac" />
   </ItemGroup>
 </Project>
